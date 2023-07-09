@@ -1,0 +1,48 @@
+header {
+    background-color: bisque;
+    height:60px;
+}
+
+header .logo{
+    color:cadetblue;
+    float:left;
+}
+
+body{
+    text-align: center;
+    background-image: url("https://thumb.photo-ac.com/6b/6b2030a2c6f0a0f367fc79240e085152_w.jpeg");
+    background-size: cover;
+    background-color:rgba(255,105,212,0.5);
+}
+
+
+
+.jitugenn h2{
+    font-size:40px;
+    padding-top:10px;
+}
+
+.jitugenn{
+    width:60%;
+    background-color:rgba(255,165,0,0.3);
+    margin:0 auto;
+}
+
+.ikigomi h2{
+    font-size:40px;
+    padding-top:10px;
+}
+
+.ikigomi{
+    width:60%;
+    background-color: rgba(154,205,50,0.3);
+    margin:0 auto;
+}
+
+.name{
+    float:right;
+    background-color: bisque;
+    padding:10px;
+}
+
+
